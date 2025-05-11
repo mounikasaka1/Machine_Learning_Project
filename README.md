@@ -4,11 +4,13 @@
 This project applies and compares multiple machine learning classification models on different datasets and includes thorough exploratory data analysis (EDA), model tuning using GridSearchCV, and evaluation using standard classification metrics.
 
 
-## 📁 Project Structure
+##  Project Structure
+
+#add here 
 
 
 
-## 📊 Dataset
+## Dataset
 
 #do other ones here 
 The dataset (`FIC_Full.CSV`) contains anonymized medical records with features such as blood pressure, glucose level, BMI, etc., and a binary outcome indicating diabetes presence.
